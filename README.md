@@ -31,7 +31,7 @@ I'm **Tqter** but most people just call me **Jake**, I am a Intermediate special
 ## Info
 
 ### Current Project(s)
-- 👨‍💻:  
+- :💻:  
 1. [SCP Info](http://scpinfo.xyz)  
 2. [Infinity Bot List](https://infinitybots.xyz)
 3. Smort Bot
@@ -39,7 +39,7 @@ I'm **Tqter** but most people just call me **Jake**, I am a Intermediate special
 ---
 
 ## Current Study's
-  - 👨‍🏫:
+- :pencil:
 1. Flask
 2. TypeScript
 
