@@ -6,7 +6,7 @@ I'm **Tqter** but most people just call me **Jake**, I am a Intermediate Python 
 ## Languages and Tools
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Pycharm" width="26px" src="http://assets.stickpng.com/images/58481537cef1014c0b5e4968.png" />
+<img align="left" alt="Pycharm" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpycharm-logo&psig=AOvVaw3KekFAoRUoenHX2wkHEufj&ust=1621624219838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDr-JD72PACFQAAAAAdAAAAABAD" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
