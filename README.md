@@ -32,7 +32,7 @@ I'm **Tqter** but most people just call me **Jake**, I am a Intermediate Python 
 
 ### Current Project(s)
 - 💻  
-1. [SCP Info](http://scpinfo.xyz)  
+1. [SCP Info](http://scpinfo.xyz) (Moderation and Verification Specialist)
 2. [Infinity Bot List](https://infinitybots.xyz)
 3. Smort Bot
 
