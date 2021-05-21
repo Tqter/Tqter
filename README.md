@@ -30,23 +30,20 @@ I'm **Tqter**, an Intermediate Python Developer specializing in Discord Bot Deve
 
 ## Info
 
-### Current Project(s)
-- 💻  
+### Current Project(s) 💻
 1. [SCP Info](http://scpinfo.xyz)
 2. [Infinity Bot List](https://infinitybots.xyz) (Moderation and Verification Specialist)
 3. Smort Bot
 
 ---
 
-## Current Study's
-- :pencil:
+## Current Study's :pencil:
 1. Flask
 2. TypeScript
 
 ---
 
-## Contact Info
-- 📫: 
+## Contact Info 📫
 1. Discord: Tqter#5814
 2. Email: scpinfoteam@gmail.com
 
