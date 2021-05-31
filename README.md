@@ -31,9 +31,9 @@ I'm **Tqter**, an Intermediate Python Developer specializing in Discord Bot Deve
 ## Info
 
 ### Current Project(s) 💻
-1. [SCP Info](http://scpinfo.xyz)
-2. [Infinity Bot List](https://infinitybots.xyz) (Moderation and Verification Specialist)
-3. Smort Bot
+1. [SCP Info](https://scpinfo.xyz)
+2. [Fates List](https://fateslist.xyz) (Head Developer)
+3. [Infinity Bot List](https://infinitybots.xyz) (Moderation and Verification Specialist)
 
 ---
 
