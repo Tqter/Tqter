@@ -39,7 +39,7 @@ I'm **Tqter**, an Intermediate Python Developer specializing in Discord Bot Deve
 
 ## Current Study's :pencil:
 1. Flask
-2. TypeScript
+2. C# (Game Development)
 
 ---
 
