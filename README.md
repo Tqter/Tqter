@@ -44,8 +44,7 @@ I'm **Tqter**, an Intermediate Python Developer specializing in Discord Bot Deve
 ---
 
 ## Contact Info 📫
-1. Discord: Tqter#5814
-2. Email: scpinfoteam@gmail.com
+[!](https://discord.c99.nl/widget/theme-1/704052817760878592.png)
 
 ---
 
