@@ -44,7 +44,7 @@ I'm **Tqter**, an Intermediate Python Developer specializing in Discord Bot Deve
 ---
 
 ## Contact Info 📫
-[![](https://discord.c99.nl/widget/theme-4/556119013298667520.png)](https://discord.gg/r6JKP5rAWn)
+[![](https://discord.c99.nl/widget/theme-1/704052817760878592.png)](https://discord.gg/r6JKP5rAWn)
 
 ---
 
