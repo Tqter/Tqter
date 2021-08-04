@@ -49,5 +49,5 @@ I'm **Tqter**, an Intermediate Python Developer specializing in Discord Bot Deve
 ---
 
 Pronouns 😄
-1. Him/He
+1. He/Him
 2. Tqter Tots
