@@ -1,5 +1,5 @@
 # Hello! 👋
-I'm **Tqter**, an Intermediate Python Developer specializing in Discord Bot Development. I specialize in the Programming Language **Python**. I am well-versed in some other languages/libraries such as discord.py, HTML, CSS, SQL, and MarkDown.
+I'm **Tqter**, an Idiotic Python Developer specializing in Discord Bot Development. I specialize in the Programming Language **Python**. I am well-versed in some other languages/libraries such as discord.py, HTML, CSS, SQL, and MarkDown.
 
 ---
 
